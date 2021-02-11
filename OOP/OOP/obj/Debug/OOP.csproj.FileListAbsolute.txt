@@ -1,0 +1,7 @@
+D:\Metrodata\Latihan\MCC43Day9\OOP\OOP\bin\Debug\OOP.exe.config
+D:\Metrodata\Latihan\MCC43Day9\OOP\OOP\bin\Debug\OOP.exe
+D:\Metrodata\Latihan\MCC43Day9\OOP\OOP\bin\Debug\OOP.pdb
+D:\Metrodata\Latihan\MCC43Day9\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+D:\Metrodata\Latihan\MCC43Day9\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\Metrodata\Latihan\MCC43Day9\OOP\OOP\obj\Debug\OOP.exe
+D:\Metrodata\Latihan\MCC43Day9\OOP\OOP\obj\Debug\OOP.pdb
